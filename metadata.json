@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Remix: Isometric Map Planner",
-  "description": "Interactive planner for a strategy game map. Allows visually placing cities, obstacles, and territory zones on a 61x61 isometric grid to plan strategy.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
